@@ -8,7 +8,6 @@ function min (a,b){
 
 console.log('Min je: ', min(0,4));
 
-
 function min2  (a,b){
     if(a < b){
         return a;
